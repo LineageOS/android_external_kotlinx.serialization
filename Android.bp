@@ -1,5 +1,5 @@
 java_library {
-    name: "kotlinx_serialization”,
+    name: "kotlinx_serialization",
     host_supported: true,
     sdk_version: "core_current",
     srcs: ["kotlinx-serialization-core/jvmMain/src/kotlinx/serialization/**/*.kt"],
